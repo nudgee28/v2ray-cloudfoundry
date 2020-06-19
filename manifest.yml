@@ -1,5 +1,5 @@
 applications:
 - path: .
-  name: GetStartedGo
+  name: Singal
   random-route: true
   memory: 256M
